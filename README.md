@@ -1,4 +1,4 @@
-## Gradient StyleGAN2 Template Repo
+## Gradient StyleGAN2 Template Repo talv1
 
 This is a Github template repo you can use to create your own copy of the forked StyleGAN2 sample from NVLabs.
 The NVLabs sources are unchanged from the [original](https://github.com/NVlabs/stylegan2), except for this README paragraph, and the addition of the workflow yaml file.
